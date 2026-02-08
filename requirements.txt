@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+numpy
+flask
+python-dotenv
+
