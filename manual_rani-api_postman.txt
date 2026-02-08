@@ -1,0 +1,26 @@
+menguji rani-api.py di postman
+
+Atur Method & URL
+================
+Method: POST
+URL:
+- Jika test di perangkat yang sama:
+	http://localhost:5000/api/rani
+- Jika test dari HP lain yang 1 WiFi:
+	http://IP-LAN-kamu:5000/api/rani
+
+Set Header
+Di Postman → tab Headers:
+KEY	VALUE
+Content-Type	application/json
+
+Isi Body JSON
+Pindah ke tab Body → Raw → JSON
+Lalu isi:
+{
+  "pertanyaan": "Apa syarat mengajukan cerai gugat?"
+}
+Contoh lain:
+{
+  "pertanyaan": " Apa itu layanan PA Medan?"
+}
