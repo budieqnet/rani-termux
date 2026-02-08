@@ -11,6 +11,7 @@ Dengan RANI, masyarakat kini bisa:
 - Memeriksa estimasi biaya perkara tanpa harus ke loket.
 - Mendapatkan panduan layanan peradilan secara langsung dan cepat.
 - Dan masih banyak lagi...
+
 💡 Mengapa ini penting?
  Karena inovasi di peradilan bukan tentang mengganti manusia dengan mesin, melainkan tentang mendekatkan layanan ke masyarakat dengan cara yang lebih cerdas, efisien, dan transparan.
 RANI adalah langkah kecil, tapi berarti, menuju sistem peradilan yang benar-benar responsif terhadap kebutuhan publik.
